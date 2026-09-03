@@ -1,0 +1,16 @@
+﻿id_venda,data,vendedor,cidade,produto,categoria,quantidade,preco_unitario
+1,2025-01-05,Ana,São Paulo,Notebook,Informática,2,3500
+2,2025-01-08,Carlos,Rio de Janeiro,Mouse,Periféricos,5,80
+3,2025-01-10,Ana,São Paulo,Monitor,Informática,1,1200
+4,2025-01-12,Maria,Belo Horizonte,Teclado,Periféricos,3,250
+5,2025-01-15,Carlos,Rio de Janeiro,Notebook,Informática,1,3500
+6,2025-01-20,Pedro,Curitiba,Mouse,Periféricos,8,80
+7,2025-01-21,Ana,São Paulo,Notebook,Informática,1,3500
+8,2025-01-22,Maria,Belo Horizonte,Monitor,Informática,2,1200
+9,2025-01-25,Pedro,Curitiba,Teclado,Periféricos,4,250
+10,2025-01-28,Carlos,Rio de Janeiro,Monitor,Informática,1,1200
+11,2025-02-03,Ana,São Paulo,Mouse,Periféricos,6,80
+12,2025-02-08,Maria,Belo Horizonte,Notebook,Informática,1,3500
+13,2025-02-10,Pedro,Curitiba,Monitor,Informática,3,1200
+14,2025-02-15,Carlos,Rio de Janeiro,Teclado,Periféricos,2,250
+15,2025-02-20,Ana,São Paulo,Notebook,Informática,1,3500
